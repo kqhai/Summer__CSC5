@@ -1,3 +1,2 @@
-# Summer__CSC5
-// This repository contains work from my csc5 class whether it was in class or something I did for fun.
-test to check if changes work on gitgui
+# HOMEWORK Summer__CSC5
+This contains homework whether its from canvas or code E
